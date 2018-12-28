@@ -1,0 +1,5 @@
+paketit:
+text2png - tekstistä kuvatiedosto - https://www.npmjs.com/package/text2png
+jimp - kuvien editointi - https://www.npmjs.com/package/jimp
+
+text2png tarvii node-canvas - https://github.com/Automattic/node-canvas
